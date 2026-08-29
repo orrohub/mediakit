@@ -23,3 +23,8 @@ ORRO Conceptual Update 2 — Modules Interoperability V1.0
 ORRO Conceptual Update 3 — Web 3.0 Privacy & Security Review
 
 ORRO Conceptual Update 4 — C2PA Integration Study
+
+---
+
+New! Solana SNS
+https://www.sns.id/domain/orrohub
