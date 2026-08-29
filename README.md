@@ -1,6 +1,6 @@
 # ORRO Media Kit Coming Soon
 
-## Development Update — August 29th, 2027
+## Development Update — August 29th, 2026
 
 ### Phase 4/5
 
