@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/orrohub/mediakit/refs/heads/main/orro_logo_360.png" /></p>
+
 # ORRO Media Kit Coming Soon
 
 ## Development Update — August 29th, 2027
