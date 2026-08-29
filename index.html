@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>ORRO — 2027</title>
+<style>
+  body {
+    margin: 0;
+    min-height: 100dvh;
+    display: grid;
+    place-items: center;
+    background: #0A0A0C;
+    color: #A1A1A5;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .t {
+    font-size: clamp(56px, 8vw, 124px);
+    letter-spacing: 0.06em;
+  }
+  .l { color: #A1A1A5; font-size: 24px; letter-spacing: 0.2em; margin-bottom: 16px; text-align: center; }
+</style>
+</head>
+<body>
+  <div>
+    <div class="l">ORRO — 1 JAN 2027 UTC</div>
+    <div class="t" id="t">000:00:00:00</div>
+  </div>
+<script>
+  const TARGET = Date.UTC(2027, 0, 1, 0, 0, 0);
+
+  function pad(n, z) { return String(n).padStart(z, '0'); }
+
+  function tick() {
+    let s = Math.floor((TARGET - Date.now()) / 1000);
+    if (s <= 0) { document.getElementById('t').textContent = '000:00:00:00'; return; }
+    const d = Math.floor(s / 86400); s %= 86400;
+    const h = Math.floor(s / 3600);  s %= 3600;
+    const m = Math.floor(s / 60);    s %= 60;
+    document.getElementById('t').textContent =
+      pad(d, 3) + ':' + pad(h, 2) + ':' + pad(m, 2) + ':' + pad(s, 2);
+  }
+
+  tick();
+  setInterval(tick, 1000);
+</script>
+</body>
+</html>
