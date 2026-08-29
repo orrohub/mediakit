@@ -68,7 +68,7 @@ The open source iniative started by MIT will continue to be followed moving forw
 
 ![](https://raw.githubusercontent.com/orrohub/mediakit/refs/heads/main/assets/c2pa.png)
 
-Something from some potentially future competition of ours so we're like hmmph... boo a little bit on this one but we'll let it pass and even support them because it's really well developed and is a great initiative for artwork provenance to be a part of globally.
+Something interesting from some potentially future competition of ours so we're like hmmph... boo a little bit on this one but we'll let it pass and even support them because it's really well developed and is a great initiative for artwork provenance to be a part of globally.
 
 ---
 
