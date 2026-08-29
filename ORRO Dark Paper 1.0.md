@@ -1,7 +1,5 @@
 # ORRO Dark Paper 1.0
 
-Please note: This is a generative work created with the assistance of artificial intelligence
-
 ---
 
 ### Introduction
@@ -101,3 +99,7 @@ A story about a time when technologies stood at a crossroads, and humans faced r
 ORRO is one of those projects trying to get in between the lines, and blur them a little — just enough to create some meaningful change. The technology was never really the issue. It's the perception that guides artistic integrity, and the fear of being seen to cross over and become a traitor to the original cause. Such fine perceptions are a little too fancy for us over here — but we're happy for anyone who comes our way to share in the experience we've built, and we hope you gain something from it too, not just us, as we work to build a new kind of business for the cultural divide we now find ourselves facing.
 
 Whatever the outcome, we're just here to support you.
+
+---
+
+Please note: This is a generative work created with the assistance of artificial intelligence
