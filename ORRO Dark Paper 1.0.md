@@ -1,7 +1,5 @@
 # ORRO Dark Paper 1.0
 
----
-
 ### Introduction
 
 Each day, as we get up and walk outside, we find times getting tougher for those of us who don't have a home, or a job, or both. Whether you've just graduated high school, are between places to live, have had the unfortunate luck of being made redundant, or are simply struggling to make ends meet in this climate — ORRO is a new platform for creators. It gives you the tools to build and support your own identity or brand, backed by provable trust and authenticity, without costing you an arm and a leg. Free, if not a few pennies a month.
