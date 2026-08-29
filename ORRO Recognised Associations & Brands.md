@@ -58,7 +58,7 @@ The Australian Governments e-safety commissioner is their for keeping things saf
 
 **Open Source Framework**
 
-![]()
+![](https://raw.githubusercontent.com/orrohub/mediakit/refs/heads/main/assets/opebsource.png)
 
 The open source iniative started by MIT will continue to be followed moving forward to ensure any technologies we develop will be useful to the benefit of all—even AI if and when we eventually get there.
 
