@@ -88,6 +88,4 @@ C2PA
 
 Something from a potential future competitor, so we're giving a slight "hmmph... boo" to this one, but we're letting it pass and fully supporting it because it's exceptionally well-developed and a great initiative for global artwork provenance.
 
----
-
 
