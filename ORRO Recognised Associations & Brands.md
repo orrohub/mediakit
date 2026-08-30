@@ -56,7 +56,7 @@ MetaMask has been chosen for its market dominance, handy community support, and 
 
 USD Coin (USDC)
 
-No one trusts Tether ($USDT) from what we hear out in the market, but we've heard promising things about USD Coin ($USDC), which is backed by fully liquid reserves that are audited regularly. We're jumping on this bandwagon for now as it holds a much more solid reputation.
+No one trusts Tether ($USDT) from what we hear out in the market, but we've heard promising things about USD Coin ($USDC), which is backed by fully liquid reserves that are audited regularly. We're jumping on this bandwagon for now as it holds a much more solid reputation, with Stripe helping manage transaction flows smoothly in real time to help mitigate market volatility risk.
 
 ---
 
