@@ -52,6 +52,12 @@ Beyond the founders, ORRO's structure is deliberately community-earned rather th
 
 ORRO has not launched yet — the platform opens January 1, 2027 — so we won't hand you invented user counts or revenue projections dressed up as traction. What we can point to honestly, today, is technical readiness: a working platform with real accounts, a real trust system computing live reputation from genuine engagement rather than a static number, and real blockchain verification already confirmed on-chain — not a mockup, an actual signed transaction you can look up yourself. What performance means for ORRO right now is that the foundation genuinely works, tested against real data at every step, not promised on a slide.
 
+We believe the platform is structurally equipped to be a safe environment for young creators over the age of 16, powered by our trust-based likes and ratings system alongside comprehensive safeguards against abuse, bullying, and predatory behavior.
+
+Account integrity is strictly enforced through a decentralized community consensus and administrative oversight. Users who breach community guidelines risk forfeiting their entire accumulated trust balance—not simply from a single user marking them untrustworthy, but through systemic peer consensus or a direct administrative ban resulting in the immediate loss of all hard-earned platform standing.
+
+Furthermore, built-in anti-AI scraping features protect creators from having their uploaded content harvested by large language models and unverified, autonomous agentic technologies.
+
 ### Our Purpose
 
 ORRO exists because the space between "using AI as a tool" and "betraying the craft" has gotten narrower than it needs to be, and a lot of genuinely talented people have been pushed to one side of a line that shouldn't be so sharp. We don't think the technology is the actual problem. We think the problem is the fear of being seen to cross a line — of losing your community, your credibility, your sense of belonging to a tradition — just for exploring how these new tools fit into your practice.
