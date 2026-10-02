@@ -42,7 +42,7 @@ ORRO Attention Algorithm V1.0
 
 ORRO Auth System V1.0
 
-ORRO Authentication Hardening Strategy & Wallet Recovery V2.0
+ORRO Wallet Recovery & System Hardening Strategy V2.0
 
 ORRO Secure Blockchain Interface System v1.0
 
