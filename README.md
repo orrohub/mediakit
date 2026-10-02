@@ -28,6 +28,8 @@ ORRO Conceptual Update 4 — C2PA Integration Study
 
 ## Development Update — October 2nd, 2026
 
+### Phase 4.5/5
+
 **System Architecture & Design Updates**
 
 ORRO Database Regress Schema V1.0
