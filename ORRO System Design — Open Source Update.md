@@ -1,8 +1,8 @@
 #  ORRO System Design — Open Source Update
 
-Keeping with our nature of sharing what we do here's the diagram for our chosen simplified system design for Beta launch
+True to our open-source ethos, we are sharing the simplified system architecture chosen for our upcoming Beta launch.
 
-### Redundant dual node system architecture diagram
+## Redundant dual-node system architecture diagram
 
                                  ┌────────────────────────┐
                                  │     Load Balancer      │  ← health-checks both nodes,
