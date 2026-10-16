@@ -48,11 +48,11 @@ ORRO is built on a foundation of free and open creative expression, which we pro
 
 As described in our Terms of Service, you must comply with all applicable laws, rules, and regulations. This includes:
 
-25. Do not share content that violates anyone's intellectual property or other rights. For more information on how ORRO handles copyright complaints, please view our [Copyright & Intellectual Property Policy](https://claude.ai/copyright/)
+25. Do not share content that violates anyone's intellectual property or other rights. For more information on how ORRO handles copyright complaints, please view our [Copyright & Intellectual Property Policy](https://orro.ai/copyright/)
 
 26. Do not claim authorship of artwork, writing, or other creative work that is not your own. Uploading another creator's work and presenting it as your own original item is a trust and authenticity violation distinct from a copyright complaint, and may be removed and actioned even where no formal copyright claim has been filed.
 
-27. Do not misuse or misappropriate the services we provide for building trust, reaching consensus, and agreement in the ORRO community. For more information about this please view our [Trust & Authenticity Policy](https://claude.ai/authenticity/).
+27. Do not misuse or misappropriate the services we provide for building trust, reaching consensus, and agreement in the ORRO community. For more information about this please view our [Trust & Authenticity Policy](https://orro.ai/authenticity/).
 
 28. Do not organize, promote, or engage in the selling or facilitation of sales of regulated or potentially dangerous goods. Regulated goods have laws in place that restrict the purchase, sale, trade, or ownership of the goods. Dangerous goods have a reasonable potential to cause real-world, physical harm to individuals.
 
@@ -66,7 +66,7 @@ As described in our Terms of Service, you must comply with all applicable laws, 
 
 Please note that community guidelines are strictly enforced: repeated infractions result in progressive disciplinary action, ranging from 24-hour temporary suspensions to 30-day or 365-day bans for severe or ongoing violations.
 
-If you encounter any content or activity that violates our [Community Guidelines](https://claude.ai/guidelines/), [Terms of Service](https://claude.ai/tos/), or related policies, please report it to our team via our [Support Contact Page](https://claude.ai/help/contact.html?page=guidelines). Please note that we strongly discourage and may take action against vigilantism, as unauthorized enforcement puts individuals at risk and can interfere with official investigations or law enforcement proceedings.
+If you encounter any content or activity that violates our [Community Guidelines](https://orro.ai/guidelines/), [Terms of Service](https://orro.ai/tos/), or related policies, please report it to our team via our [Support Contact Page](https://orro.ai/help/contact.html?page=guidelines). Please note that we strongly discourage and may take action against vigilantism, as unauthorized enforcement puts individuals at risk and can interfere with official investigations or law enforcement proceedings.
 
 These policies will continue to evolve over time. Consequently, ORRO reserves the right to take action against accounts, spaces, or content that violate the spirit of these frameworks when addressing emerging threats or harms not explicitly detailed in the current version.
 
