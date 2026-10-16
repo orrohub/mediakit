@@ -131,7 +131,7 @@ body {
     padding: 2rem 2.5rem 0;
 }
 .orro-mark img {
-    width: 90px;
+    width: 44px;
     height: auto;
     display: block;
 }
@@ -217,7 +217,7 @@ body {
     gap: 0.5rem;
     transition: background var(--transition-speed), transform 0.1s;
 }
-.waitlist-form button:hover:not(:disabled) { background: var(--accent-glow); }
+.waitlist-form button:hover:not(:disabled) { background: var(--accent-surface); }
 .waitlist-form button:active:not(:disabled) { transform: scale(0.99); }
 .waitlist-form button:disabled { opacity: 0.6; cursor: default; }
 
@@ -263,7 +263,7 @@ footer .footer-text { font-family: inherit; }
 
 @media (max-width: 640px) {
     .orro-mark { padding: 1.5rem 1.5rem 0; }
-    .orro-mark img { width: 70px; }
+    .orro-mark img { width: 36px; }
     .hero { padding: 1.5rem 1.25rem 3rem; }
     .hero h1 { font-size: 36px; }
     .hero p.lede { font-size: 15px; }
@@ -303,14 +303,14 @@ footer .footer-text { font-family: inherit; }
    No backend here — this is a static page, so two things that would
    normally be trivial server-side need a workaround:
 
-   1. "Sends an email to orroprotocol@proton.me" — a browser can't
+   1. "Sends an email to contact@orro.art" — a browser can't
       send email directly (no SMTP access), so this posts the address
       to FormSubmit (https://formsubmit.co), a free static-form relay:
       it receives the POST and forwards it on to that inbox, no
       account or server code required on our side.
 
       ONE-TIME SETUP: the very first real submission, FormSubmit sends
-      an "activation" email to orroprotocol@proton.me with a confirm
+      an "activation" email to contact@orro.art with a confirm
       link — until that link is clicked, submissions are accepted but
       NOT forwarded. Click it once and every submission after that
       arrives automatically.
@@ -328,7 +328,7 @@ footer .footer-text { font-family: inherit; }
       it) rather than this substitute.
    ────────────────────────────────────────────────────────────────── */
 
-var FORM_ENDPOINT    = 'https://formsubmit.co/ajax/orroprotocol@proton.me';
+var FORM_ENDPOINT    = 'https://formsubmit.co/ajax/contact@orro.art';
 var COUNTER_NAMESPACE = 'orro-art';   // change these two if you want
 var COUNTER_KEY        = 'waitlist';  // a different CountAPI bucket
 var COUNTER_BASE       = 'https://api.countapi.xyz';
