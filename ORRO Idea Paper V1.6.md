@@ -15,9 +15,9 @@ Starting weights (tunable):
 
 | Weight           | Value    | Reason                                               |
 | ---------------- | -------- | ---------------------------------------------------- |
-| wT​ Trust        | **0.50** | Core ORRO differentiator                             |
-| wF​ Friendliness | **0.30** | Climate, not just size                               |
-| wP​ Popularity   | **0.20** | Needed, but not dominant |
+| $wT​$ Trust        | **0.50** | Core ORRO differentiator                             |
+| $wF$​ Friendliness | **0.30** | Climate, not just size                               |
+| $wP$​ Popularity   | **0.20** | Needed, but not dominant |
 
 $$\text{Flourish} \propto \frac{\text{Trust-weighted activity}}{\text{Untrust} + \text{reports} + \text{churn} + \varepsilon}$$
 
