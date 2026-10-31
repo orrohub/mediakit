@@ -21,7 +21,7 @@ Starting weights (tunable):
 
 $$\text{Flourish} \propto \frac{\text{Trust-weighted activity}}{\text{Untrust} + \text{reports} + \text{churn} + \varepsilon}$$
 
-xychart-beta
+```xychart-beta
   title "ORRO Resistance — example paths over time"
   x-axis "Time" [t0, t1, t2, t3, t4, t5, t6]
   y-axis "Signal" 0 --> 10
@@ -30,6 +30,7 @@ xychart-beta
   line "Spike path" [0, 9, 6, 3, 1.5, 0.5, 0]
   line "Multi-peak path" [4, 8, 5, 8, 5, 4, 4]
   line "Slow fade path" [0, 8, 7, 5.5, 4, 2, 0]
+```
 
 Same “compression” story: more trust pressure vs friction → higher rank.
 
