@@ -13,8 +13,11 @@ $$\text{Flourish} = w_T\cdot\text{Trust} + w_F\cdot\text{Friend} + w_P\cdot\text
 
 Starting weights (tunable):
 
-WeightValueReason$w_T$ Trust0.50Core ORRO differentiator$w_F$ Friendliness0.30Climate, not just size$w_P$ Popularity0.20Needed, but not dominant
-Optional Resistance form:
+| Weight           | Value    | Reason                                               |
+| ---------------- | -------- | ---------------------------------------------------- |
+| wT​ Trust        | **0.50** | Core ORRO differentiator                             |
+| wF​ Friendliness | **0.30** | Climate, not just size                               |
+| wP​ Popularity   | **0.20** | Needed, but not dominant |
 
 $$\text{Flourish} \propto \frac{\text{Trust-weighted activity}}{\text{Untrust} + \text{reports} + \text{churn} + \varepsilon}$$
 
