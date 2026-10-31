@@ -35,8 +35,6 @@ xychart-beta
 
 Same “compression” story: more trust pressure vs friction → higher rank.
 
----
-
 ## Background plot to the new algorithm
 
 ### Scenario 1 — Human VS machine
