@@ -45,6 +45,13 @@ Note for #25: Remove token transfers for beta testing
 | 2   | ORRO Project Director’s System Hardening Recomendations      | Complete |
 | 3   | ORRO Project Director’s Implementation Specification & Guide | Complete |
 | 4   | ORRO Lead Developer — Implementation Report                  | Complete |
-| 5   | ORRO Application Test Phase V1.0                             | 1.5%       |
+| 5   | ORRO Application Test Phase V1.0                             | 1.5%     |
+
+### Future Roadmap
+
+| #   | Specification Document                                       | Progress       |
+| --- | ------------------------------------------------------------ | -------------- |
+| 1   | ORRO Video Streaming Strategy V1.0                           | Paused (Alpha) |
+| 2   | ORRO Group Compression Based Algorithm V1.0                  | Paused (Alpha) |
 
 App version: 0.9.0-beta
