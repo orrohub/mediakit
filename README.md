@@ -39,13 +39,13 @@ Note for #25: Remove token transfers for beta testing
 
 ### Update October 20th, 2026
 
-| #   | Specification Document                                       | Progress |
+| #   | Technical Report                                             | Progress |
 | --- | ------------------------------------------------------------ | -------- |
 | 1   | ORRO Project Director’s Report                               | Complete |
 | 2   | ORRO Project Director’s System Hardening Recomendations      | Complete |
 | 3   | ORRO Project Director’s Implementation Specification & Guide | Complete |
 | 4   | ORRO Lead Developer — Implementation Report                  | Complete |
-| 5   | ORRO Application Test Phase V1.0                             | 3%     |
+| 5   | ORRO Application Test Phase                                  | 3%     |
 
 ### Future Roadmap
 
