@@ -21,7 +21,8 @@ Starting weights (tunable):
 
 $$\text{Flourish} \propto \frac{\text{Trust-weighted activity}}{\text{Untrust} + \text{reports} + \text{churn} + \varepsilon}$$
 
-```xychart-beta
+```mermaid
+xychart-beta
   title "ORRO Resistance — example paths over time"
   x-axis "Time" [t0, t1, t2, t3, t4, t5, t6]
   y-axis "Signal" 0 --> 10
