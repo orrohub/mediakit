@@ -51,6 +51,6 @@ _"They are here already,"_ we whispered._"Where?"__"Just over there—see them?"
 
 _"Oh, come on... we don't care!"_ The kids came marching down the street toward an army of these new bots taking their jobs and stealing their futures.
 
-But that's the story of the human VS human outcome where humans one day try frantically to reconnect Web2.0, Web3.0, and Web4.0 technologies all back together again for some big unknown event.
+But that's the story of the human VS human outcome where humans one day try frantically to reconnect Web2.0, Web3.0, and Web4.0 technologies all back together again for some major unknown event.
 
 _More on this next time..._
