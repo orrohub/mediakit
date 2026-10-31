@@ -15,6 +15,7 @@ Starting weights (tunable):
 
 WeightValueReason$w_T$ Trust0.50Core ORRO differentiator$w_F$ Friendliness0.30Climate, not just size$w_P$ Popularity0.20Needed, but not dominant
 Optional Resistance form:
+
 $$\text{Flourish} \propto \frac{\text{Trust-weighted activity}}{\text{Untrust} + \text{reports} + \text{churn} + \varepsilon}$$
 
 Same “compression” story: more trust pressure vs friction → higher rank.
