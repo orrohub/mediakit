@@ -55,7 +55,7 @@ This made the machines all-powerful as they became the superheroes of modern civ
 
 Come on, that’s just boring.
 
-Just kidding! It’s very exciting to see data centers sucking up the environment bit by bit, but in the end, the means are supposed to justify themselves... right? Just the other day, the first automated food delivery bots arrived locally, not far from where we live, and that moment was rather dim.
+Just kidding! It’s very exciting to see data centers sucking up the environment bit by bit, but in the end, the means are supposed to justify themselves... right? Just the other day, the first automated food delivery bots arrived locally, not far from where we live, and that moment was rather grim.
 
 _"They are here already,"_ we whispered._"Where?"__"Just over there—see them?"_
 
