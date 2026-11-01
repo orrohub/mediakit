@@ -1,10 +1,12 @@
 # ORRO Idea Paper — Algorithm Math Addendum
-## Compression, Flourish, Nourish, and Inversion
 
-**Version:** 1.6.1 (math & terminology update)  
-**Focus:** Ranking and analysis layer for creative objects and groups in agentic networks (the harmonisation effect).
+| Version | Description |
+| 1.6.1 | (math & terminology update) |
 
-### 1. Purpose
+Summary: Compression, Flourish, Nourish, and Inversion
+Focus: Ranking and analysis layer for creative objects and groups in agentic networks (the harmonisation effect).
+
+## 1. Purpose
 
 This note defines the four core quantities used by the ORRO flourish engine:
 
@@ -17,7 +19,7 @@ This note defines the four core quantities used by the ORRO flourish engine:
 
 Together they implement **Resistance ranking**: trend and “most flourishing” are not raw popularity; they are structured pressure under trust.
 
-### 2. Terminology
+## 2. Terminology
 
 | Symbol / term | Meaning |
 |---------------|---------|
@@ -43,7 +45,7 @@ Time series of *support/repair* pressure: Trust after a dip, Untrust reversal, h
 When the object is **hot** (well above baseline), extra flourish is damped.  
 When the object is **quiet but trusted** (below baseline, still high Trust ratio), nourish is boosted so recovery is possible without pure virality.
 
-### 3. Base signals (per object, inside its window)
+## 3. Base signals (per object, inside its window)
 
 $$
 \begin{aligned}
@@ -53,7 +55,7 @@ $$
 \end{aligned}
 $$
 
-### 4. Compression (Resistance core)
+## 4. Compression (Resistance core)
 
 Upper floor and lower floor:
 
@@ -96,7 +98,7 @@ $$
 
 Coefficients \(\alpha, \beta, \gamma\) and \(\alpha_n, \beta_n, \gamma_n\) are tunable; Trust terms should dominate.
 
-### 6. Inversion policy
+## 6. Inversion policy
 
 Let \(B\) be the baseline for that object type in the window.  
 Let \(S(t)\) be a simple combined level, e.g. \(\text{FlourishCycle}(t)\).
@@ -120,7 +122,7 @@ $$
 
 where \(D_{\text{hot}} \in (0,1]\) (damper) and \(B_{\text{recover}} \ge 1\) (boost).
 
-### 7. Combined ranking score (Alpha-ready)
+## 7. Combined ranking score (Alpha-ready)
 
 Linear blend (stable default):
 
@@ -146,7 +148,7 @@ with \(\theta_1 + \theta_2 + \theta_3 = 1\), and Trust still the main driver ins
 
 Decay: after the object’s window (24h / 7d / 30d), trend contribution goes to zero; history may remain for audit.
 
-### 8. Mermaid diagram (conceptual engine)
+## 8. Mermaid diagram (conceptual engine)
 
 ```mermaid
 flowchart TB
@@ -190,7 +192,7 @@ flowchart TB
   INV --> FR
 ```
 
-### 9. Design rules (short)
+## 9. Design rules (short)
 
 One Trust or Untrust per actor per object (toggle).
 Trust/Untrust update scores immediately; decay runs on a timer.
@@ -198,6 +200,6 @@ Windows: tags 24h; posts 7d; projects, fragments, certificates, groups 30d.
 Compression resists pure virality; Inversion resists both empty spikes and permanent burial of trusted quiet work.
 Weights and $\theta$ are tunable; Trust remains the primary differentiator.
 
-### 10. Relation to agentic networks
+## 10. Relation to agentic networks
 
 Compression + Flourish/Nourish + Inversion give a shared pressure field that humans and agents can write (Trust/Untrust) and read (rank). That supports harmonisation: ranking by structured trust pressure rather than attention alone.
