@@ -196,11 +196,11 @@ flowchart TB
 
 ## 9. Design rules (short)
 
-One Trust or Untrust per actor per object (toggle).
-Trust/Untrust update scores immediately; decay runs on a timer.
-Windows: tags 24h; posts 7d; projects, fragments, certificates, groups 30d.
-Compression resists pure virality; Inversion resists both empty spikes and permanent burial of trusted quiet work.
-Weights and $\theta$ are tunable; Trust remains the primary differentiator.
+* One Trust or Untrust per actor per object (toggle).
+* Trust/Untrust update scores immediately; decay runs on a timer.
+* Windows: tags 24h; posts 7d; projects, fragments, certificates, groups 30d.
+* Compression resists pure virality; Inversion resists both empty spikes and permanent burial of trusted quiet work.
+* Weights and $\theta$ are tunable; Trust remains the primary differentiator.
 
 ## 10. Relation to agentic networks
 
