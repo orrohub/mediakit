@@ -1,12 +1,12 @@
 # ORRO Idea Paper — Algorithm Math Addendum
 
-| Version | Description |
-|------|----------------|
-| 1.6.1 | (math & terminology update) |
-
 Summary: Compression, Flourish, Nourish, and Inversion
 
 Focus: Ranking and analysis layer for creative objects and groups in agentic networks (the harmonisation effect).
+
+| Version | Description |
+|------|----------------|
+| 1.6.1 | Math & terminology update |
 
 ## 1. Purpose
 
